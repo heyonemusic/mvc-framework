@@ -6,6 +6,6 @@ class Db
 {
     function __construct()
     {
-        echo 'ya klass Database';
+
     }
 }
